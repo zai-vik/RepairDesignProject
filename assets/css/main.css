@@ -2071,7 +2071,7 @@ button:hover {
 
 
     .question {
-        max-width: 302px;
+        width: 302px;
     }
 
     .third-form-checkbox-wrapper {
