@@ -2156,6 +2156,7 @@ button:hover {
         padding: 85px 0 65px;
         background: url('../img/bg_header--mobile.jpg'), 100% 100%, rgba(0, 0, 0, .7);
         background-repeat: no-repeat;
+        background-size: cover;
     }
 
     .header__title {
